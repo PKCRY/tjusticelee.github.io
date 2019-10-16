@@ -54,9 +54,9 @@ ul {
   align-items: flex-start;
   box-shadow: -20px 10px 17px 5px black;
   display: flex;
-  font-size: 175px;
+  font-size: 15vw;
   justify-content: space-between;
-  margin-right: 700px;
+  margin-right: 20%;
   margin-top: 200px;
   padding-left: 20px;
 }
@@ -70,18 +70,18 @@ ul {
   font-size: 35px;
   justify-content: flex-end;
   margin-top: 50px;
-  margin-left: 400px;
+  margin-left: 35%;
   padding-right: 50px;
   text-shadow: 3px 3px 3px grey;
   transition: background .5s, color .5s;
 }
 
 .second-co {
-  margin-left: 500px;
+  margin-left: 50%;
 }
 
 .third-co {
-  margin-left: 700px;
+  margin-left: 65%;
 }
 
 /* expertise page */
@@ -209,3 +209,5 @@ iframe {
   justify-content: space-around;
   margin-left: 100px;
 }
+
+
